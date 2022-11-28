@@ -14,6 +14,5 @@ let array5 = [];
 array5[100] = 3; //final length is 101. Length is index postion + 1. */
 
 
-
   
   
